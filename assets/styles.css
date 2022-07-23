@@ -76,5 +76,9 @@ body
   background: gold;
   animation-delay: 0.2s;
 }
-
+.music .bar:nth-child(6)
+{
+  background: gold;
+  animation-delay: 0.2s;
+}
 /* end of unique dynamic loader styles */
