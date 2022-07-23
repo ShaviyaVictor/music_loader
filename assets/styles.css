@@ -81,4 +81,9 @@ body
   background: gold;
   animation-delay: 0.2s;
 }
+.music .bar:nth-child(7)
+{
+  background: orange;
+  animation-delay: 0.4s;
+}
 /* end of unique dynamic loader styles */
