@@ -12,6 +12,7 @@ body
   justify-content: center;
   height: 100vh;
   background: #000;
+  /* default loader bar */
   color: #fff;
 }
 /* finish global styles */
