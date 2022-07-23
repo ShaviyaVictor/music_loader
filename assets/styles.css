@@ -51,5 +51,9 @@ body
 }
 /* end of animation styles */
 /* start of unique dynamic styles for the loader bars */
-
+.music .bar:nth-child(1)
+{
+  background: purple;
+  animation-delay: 1s;
+}
 /* end of unique dynamic loader styles */
