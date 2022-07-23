@@ -1,7 +1,7 @@
 # music_loader
 A cool music loader made for practice purposes.
           
-<img src="#" width="600" height="350" alt="">             
+<img src="https://github.com/ShaviyaVictor/music_loader/blob/main/assets/images/loader.png" width="600" height="350" alt="loader_screenshot">             
 
 ## Built With
 
@@ -16,11 +16,8 @@ A cool music loader made for practice purposes.
 This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/music_loader/blob/main/LICENSE).           
 
 ## Resources
-- [YouTube](#)          
-- [Image source](#)          
-- [Image Download Link](#)          
-- [StackOverflow](#)          
-
+- [Codepen](https://codepen.io/antoniasymeonidou/pen/BaJqzxy)          
+- [Daily Tweet dose](https://twitter.com/NanouuSymeon/status/1550119310755909632)          
 
 ## Acknowledgments
 
