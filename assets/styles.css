@@ -69,6 +69,12 @@ body
 .music .bar:nth-child(4)
 {
   background: orange;
-  animation-delay: orange;
+  animation-delay: 0.4s;
 }
+.music .bar:nth-child(5)
+{
+  background: gold;
+  animation-delay: 0.2s;
+}
+
 /* end of unique dynamic loader styles */
