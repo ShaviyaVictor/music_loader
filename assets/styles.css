@@ -23,7 +23,7 @@ body
   align-items: center;
   justify-content: space-between;
   position: relative;
-  width: 600px;
+  min-width: 450px;
   height: 200px;
 }
 /* end of main container styles */
