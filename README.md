@@ -11,7 +11,7 @@ A cool music loader made for practice purposes.
 
 ## License
 
-This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/music_loader/blob/main/LICENSE).           
+This project is licensed under the [MIT License](https://github.com/ShaviyaVictor/music_loader/blob/main/LICENSE).           
 
 ## Resources
 - [Codepen](https://codepen.io/antoniasymeonidou/pen/BaJqzxy)          
