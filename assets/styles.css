@@ -96,4 +96,9 @@ body
   background: crimson;
   animation-delay: 0.8s;
 }
+.music .bar:nth-child(10)
+{
+  background: purple;
+  animation-delay: 1s;
+}
 /* end of unique dynamic loader styles */
