@@ -37,3 +37,19 @@ body
   animation: up_down 1.5s ease-in-out infinite;
 }
 /* end of loader styling */
+/* start of animation styles */
+@keyframes up_down 
+{
+  0%, 100%
+  {
+    height: 2px;
+  }  
+  50%
+  {
+    height: 80%;
+  }
+}
+/* end of animation styles */
+/* start of unique dynamic styles for the loader bars */
+
+/* end of unique dynamic loader styles */
