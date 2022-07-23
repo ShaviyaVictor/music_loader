@@ -61,4 +61,9 @@ body
   background: crimson;
   animation-delay: 0.8s;
 }
+.music .bar:nth-child(3)
+{
+  background: deeppink;
+  animation-delay: 0.6s;
+}
 /* end of unique dynamic loader styles */
