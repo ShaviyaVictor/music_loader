@@ -12,4 +12,18 @@ body
   justify-content: center;
   height: 100vh;
   background: #000;
+  color: #fff;
 }
+/* finish global styles */
+
+/* main container styles */
+.music
+{
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 300px;
+  height: 200px;
+}
+/* end of main container styles */
