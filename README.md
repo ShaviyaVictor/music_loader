@@ -7,8 +7,6 @@ A cool music loader made for practice purposes.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)        
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/css)             
-* [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)         
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)              
 * [Github](https://github.com/ShaviyaVictor/shaviya)
 
 ## License
